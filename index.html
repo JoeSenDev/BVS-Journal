@@ -1,8 +1,8 @@
 ---
 layout: default
-title: A stunning personal blog Jekyll theme
-description: Journal is a stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-landscape.jpg
+title: Bramley Village Society
+description: The Bramley Village Society (BVS) is a charity with a primary objective of maintaining and improving the material and social fabric of Brmaley in Surrey. Bramley is a great community - our remit is to maintain and improve both the materia land social fabric of the Parish.
+featured_image: /images/demo/demo-portrait.jpg
 ---
 
 <section class="blog single">
@@ -22,10 +22,14 @@ featured_image: /images/demo/demo-landscape.jpg
 			<a href="{{ post.url | relative_url }}" class="blog-post__image" style="background-image: url({{ post.featured_image | relative_url }});"></a>
 			{% endif %}
 
+			<p>{{ post.content}}</p>
+			<!-- 
 			<div class="blog-post__content">
 				<p>{{ post.excerpt }}</p>
 				<p><a href="{{ post.url | relative_url }}" class="button">Read More</a>
-			</div>
+			</div>				
+			-->
+
 
 		</article>
 

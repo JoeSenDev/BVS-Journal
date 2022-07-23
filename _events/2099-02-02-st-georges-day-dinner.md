@@ -1,9 +1,8 @@
 ---
-layout: post
-title: St Georges Day Dinner
+title: 'St. Georges Day Dinner'
 subtitle: 
-categories: Events
-tags: [StGeorges]
+date: 2018-06-30 00:00:00
+featured_image: '/images/saint-george 1.jpg'
 ---
 
 **St. George's Day Dinner in the Jolly Farmer - Timing and Price to be finalised**

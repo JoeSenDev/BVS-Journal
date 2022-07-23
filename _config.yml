@@ -10,9 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  events:
     output: true
-    permalink: /project/:slug
+    permalink: /event/:slug
 
 defaults:
   -
@@ -29,15 +29,21 @@ defaults:
   -
     scope:
       path: ""
+      type: "minutes"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
       type: "posts"
     values:
       layout: "post"
   -
     scope:
       path: ""
-      type: "projects"
+      type: "events"
     values:
-      layout: "project"
+      layout: "page"
 
 markdown: kramdown
 

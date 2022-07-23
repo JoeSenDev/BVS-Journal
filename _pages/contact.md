@@ -1,10 +1,10 @@
 ---
-title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: Contact the BVS
+subtitle: 
+description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
+You can contact the BVS either by emailing us at [BramleyVillageSociety@gmail.org](mailto:BramleyVillageSociety@gmail.org) or by using the form below.
 
 {% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.

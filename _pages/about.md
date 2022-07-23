@@ -1,35 +1,20 @@
 ---
-title: About Journal
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About BVS
+subtitle:
+description: 
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+The Bramley Village Society (BVS) is a [charity](https://register-of-charities.charitycommission.gov.uk/charity-details/?regid=266026&subid=0){:target="_blank"}{:rel="noopener noreferrer"} with the following objectives:
+		
+- To stimulate public interest in the area of Bramley village and Parish.
+- To promote high standards of development planning and architecture in the area of benefit.
+- To secure the preservation, protection, development, and improvement of features of historic or public interest in the area of benefit.
+		
+Our constitution can be viewed [here](https://drive.google.com/file/d/10dN-5BwGsKaoy7a5qlz0I69DQH0ZTwxK/view?usp=sharing){:target="_blank"}{:rel="noopener noreferrer"}.
 
-## Features
 
-Journal is packed with powerful features to showcase your work:
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
 
-## Get Index
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
